@@ -1,11 +1,11 @@
-### 📊 Sales Dashboard
+### Sales Dashboard
 
 Full-stack sales dashboard application with:
 
 * **Frontend:** Next.js 15 + Tailwind CSS 4
 * **Backend:** FastAPI + SQLAlchemy
 
-📁 Project structure:
+Project structure:
 
 ```
 sales-dashboard/
@@ -15,9 +15,16 @@ sales-dashboard/
 
 ---
 
-## 🚀 Getting Started
+## Screenshots
 
-### 🧱 Prerequisites
+* \[image goes here]
+* \[image goes here]
+
+---
+
+## Getting Started
+
+### Prerequisites
 
 * [Python 3.10+](https://www.python.org/downloads/)
 * [Node.js 18+ and npm](https://nodejs.org/)
@@ -26,7 +33,7 @@ sales-dashboard/
 
 ---
 
-## 💻 Backend Setup (FastAPI)
+## Backend Setup (FastAPI)
 
 1. Open your terminal and navigate to the backend folder:
 
@@ -78,7 +85,7 @@ sales-dashboard/
 
 ---
 
-## 🌐 Frontend Setup (Next.js + TailwindCSS)
+## Frontend Setup (Next.js + TailwindCSS)
 
 1. In a new terminal, navigate to the frontend folder:
 
@@ -103,34 +110,5 @@ sales-dashboard/
    ```
    http://localhost:3000
    ```
-
----
-
-## ⚙️ Environment Setup (Optional for production or advanced use)
-
-If you plan to run this in production or want more control:
-
-* Create a `.env` file in both the `backend` and `frontend` folders if needed.
-
-* For example, in `backend/.env`, you might define:
-
-  ```
-  DATABASE_URL=sqlite:///./sales.db
-  ```
-
-* And in `frontend/.env.local`:
-
-  ```
-  NEXT_PUBLIC_API_URL=http://127.0.0.1:8000
-  ```
-
-> Note: This project works without environment variables out-of-the-box in development.
-
----
-
-## 📸 Screenshots
-
-* \[image goes here]
-* \[image goes here]
 
 ---
