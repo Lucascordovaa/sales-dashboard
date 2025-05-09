@@ -3,7 +3,7 @@
 Full-stack sales dashboard application with:
 
 * **Frontend:** Next.js 15 + Tailwind CSS 4
-* **Backend:** FastAPI + SQLAlchemy
+* **Backend:** Python + FastAPI + SQLAlchemy
 
 Project structure:
 
