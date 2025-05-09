@@ -34,6 +34,7 @@ sales-dashboard/
 * [Python 3.10+](https://www.python.org/downloads/)
 * [Node.js 18+ and npm](https://nodejs.org/)
 * Git (if you’re cloning the repo)
+* Python extension for VSCode is optional
 
 ---
 
