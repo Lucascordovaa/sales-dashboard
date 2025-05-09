@@ -59,7 +59,7 @@ sales-dashboard/
      ```powershell
      .\venv\Scripts\Activate.ps1
      ```
-     If the script fails to activate, open powershell as administrator and type Set-ExecutionPolicy RemoteSigned, then press A and enter.
+     If the script fails to activate, open powershell as administrator and type Set-ExecutionPolicy RemoteSigned, then press enter, A and enter again.
    * **Command Prompt**:
 
      ```cmd
