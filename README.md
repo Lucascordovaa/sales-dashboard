@@ -19,9 +19,9 @@ sales-dashboard/
 
 ![main page](https://github.com/Lucascordovaa/sales-dashboard/blob/main/screenshots/print1.PNG)
 
-![add category](https://github.com/Lucascordovaa/sales-dashboard/blob/main/screenshots/print2.PNG)
-
 ![add product](https://github.com/Lucascordovaa/sales-dashboard/blob/main/screenshots/print3.PNG)
+
+![add category](https://github.com/Lucascordovaa/sales-dashboard/blob/main/screenshots/print2.PNG)
 
 ![add sales](https://github.com/Lucascordovaa/sales-dashboard/blob/main/screenshots/print4.PNG)
 
