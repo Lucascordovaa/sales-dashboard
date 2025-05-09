@@ -17,7 +17,7 @@ sales-dashboard/
 
 ## Screenshots
 
-* \[image goes here]
+![main page](https://github.com/Lucascordovaa/sales-dashboard/blob/main/screenshots/print1.PNG)
 * \[image goes here]
 
 ---
