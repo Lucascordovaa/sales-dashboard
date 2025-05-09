@@ -13,6 +13,13 @@ sales-dashboard/
 └── frontend/
 ```
 
+Project Features: 
+
+* **Filter products by category:** On the products list, you can filter by category using the dropdown menu.
+* **Add products:** When clicking on the Add Product button, you'll be redirected to the add product page, where you can manually add products or upload a CSV file.
+* **Add categories:** When clicking on the Add Category button, you'll be redirected to the add category page, where you can manually add new categories or upload a CSV file.
+* **Edit/add sales:** When clicking on the Add/edit sales button, you'll be redirected to the sales page, where you can manually add sales or upload a CSV file, and also see the sales by month.
+* **Download CSV buttons:** You can download updated CSV files containing the sales and the products list.
 ---
 
 ## Screenshots
